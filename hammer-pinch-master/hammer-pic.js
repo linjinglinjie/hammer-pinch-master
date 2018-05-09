@@ -134,7 +134,7 @@
 		  			scale: that.scale
 		  		})
 
-		  		that._selfPosition(that._position);
+		  		//that._selfPosition(that._position);
 			};
 
 		}
